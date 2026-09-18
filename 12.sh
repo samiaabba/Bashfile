@@ -7,5 +7,6 @@ echo "positive number"
 elif [[ $number -lt 0 ]]; then
 
 echo " ziro or negative"
+echo " hi i am adding some commend "
 
 fi
