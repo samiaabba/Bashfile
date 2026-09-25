@@ -5,7 +5,7 @@ A command-line banking application built with Bash.
 ## Team Members
 
 - **Engineer 1 – Samia Abba**
-- **Engineer 2 – Madou Diallo**
+- **Engineer 2 – Amadou Diallo**
 - **Engineer 3 – Nafis Rashid**
 
 ---
